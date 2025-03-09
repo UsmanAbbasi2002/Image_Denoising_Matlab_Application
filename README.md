@@ -30,7 +30,7 @@ This project demonstrates **image denoising using the DnCNN (Denoising Convoluti
 2. Clone this repository:  
 
    ```bash
-   git clone https://github.com/UsmanAbbasi2002/Image-Denoising-Using-DnCNN.git
+   git clone (https://github.com/UsmanAbbasi2002/Image_Denoising_Matlab_Application)
    cd Image-Denoising-Using-DnCNN
    ```
 
@@ -75,5 +75,5 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 ## 📧 Contact  
 
 👤 **Usman Abbasi**  
-📩 Email: [your-email@example.com]  
+📩 Email: [usmanabbasia10@gmail.com.com]  
 🔗 GitHub: [UsmanAbbasi2002](https://github.com/UsmanAbbasi2002)  
